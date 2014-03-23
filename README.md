@@ -20,7 +20,8 @@ This is really just something I wrote this weekend. It isn't very developed at a
 
 ##Puzzle Generation:
 Currently, Sudoku Smasher can generate a solved sudoku board from an empty board. What's missing from generating sudoku puzzles are:
+
 1. Randomization 
 2. Detection of when a given board has a unique solution. 
-3. 
-4. Neither of these should be hard. 
+
+Neither of these should be hard. 
