@@ -18,6 +18,11 @@ This is really just something I wrote this weekend. It isn't very developed at a
 
 #To-Do
 
+##Error Checking
+
+1. Currently doesn't check that the file input is a valid puzzle.
+2. Exception handling could be more fine grain in general.
+
 ##Puzzle Generation:
 Currently, Sudoku Smasher can generate a solved sudoku board from an empty board. What's missing from generating sudoku puzzles are:
 
